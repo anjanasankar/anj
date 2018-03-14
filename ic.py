@@ -8,3 +8,4 @@ else:
 dict[n] = 1
 return dict
 print(char_frequency('google.com'))
+
